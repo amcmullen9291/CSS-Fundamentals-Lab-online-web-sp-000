@@ -4,12 +4,12 @@ body {
   margin: 0;
 }
 
-{
+section figure img{
 display: block;
     margin: 0 auto;
 }
-}
-header, section figure img {
+
+header {
 text-align: center;  
 }
 
